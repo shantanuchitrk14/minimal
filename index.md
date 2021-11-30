@@ -10,9 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-#Project_1
+Project_1
 
-Fraud_Detection
+Fraud_detection
+
 ## Header 2
 
 > This is a blockquote following a header.
